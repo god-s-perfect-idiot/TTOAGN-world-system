@@ -6,12 +6,14 @@ I decided to test stuff in Python and later redo the whole logic in C# or try a 
 Ill keep you posted on how stuff works and stuff.
 
 <h4>Goals:</h4>
-- Day and Night System
-- Aging system
-- Character generation (True Random, hopefully)
-- Voice filter for each character
-- Character interactions
-- Overlooking administration system
-- Region balancing
-- Random event spawning
+<ul>
+<li>- Day and Night System<\li>
+<li>- Aging system<\li>
+<li>- Character generation (True Random, hopefully)<\li>
+<li>- Voice filter for each character<\li>
+<li>- Character interactions<\li>
+<li>- Overlooking administration system<\li>
+<li>- Region balancing<\li>
+<li>- Random event spawning<\li>
+  </ul>
 - <h5>To Be Continued</h5>
