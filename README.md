@@ -8,8 +8,8 @@ Edit: Python's too easy and absolutely unportable. Well, guess it's C# all the w
 
 <h4>Goals:</h4>
 <ul>
-<li>- Day and Night System</li>
-<li>- Aging system</li>
+<li>- Day and Night System - Done!</li>
+<li>- Aging system - Future plan when using actual Models</li>
 <li>- Character generation (True Random, hopefully)</li>
 <li>- Voice filter for each character</li>
 <li>- Character interactions</li>
