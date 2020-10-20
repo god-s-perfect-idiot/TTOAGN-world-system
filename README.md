@@ -4,6 +4,7 @@ The world system design for The Tales of a Gutsy Ninja, a brand new and upcoming
 <h4>Disclaimer:</h4>
 I decided to test stuff in Python and later redo the whole logic in C# or try a cross-compiler onto my new PC whichever works better. So, yeah. there's that.
 Ill keep you posted on how stuff works and stuff.
+Edit: Python's too easy and absolutely unportable. Well, guess it's C# all the way.
 
 <h4>Goals:</h4>
 <ul>
