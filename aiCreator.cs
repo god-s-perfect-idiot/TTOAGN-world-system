@@ -10,14 +10,8 @@ public class aiCreator : MonoBehaviour
    static char[] cons = {'b','c','f','h','k','m','n','r','s','t','v','w','y'};
    static char[] vowels = {'a','i','o','u'};
 
-    // Start is called before the first frame update
-    void Start()
-    {
-          Debug.Log(weebNameGenerator());
 
-    }
-
-    string weebNameGenerator(){
+    public static string weebNameGenerator(){
 
       System.Random r = new System.Random();
       int length = r.Next(3,9);
